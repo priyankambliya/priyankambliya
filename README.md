@@ -52,8 +52,8 @@ I'm a passionate Node.js developer with strong knowledge and experience in build
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com)  
-- [GitHub](https://github.com/your-username) 
+- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/priyank-ambliya-119986306/))  
+- [GitHub]([https://github.com/your-username](https://www.linkedin.com/in/priyank-ambliya-119986306/)) 
 <!--
 **priyankambliya/priyankambliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
